@@ -1,4 +1,5 @@
 # README
+by [Andrew Sinner](https://github.com/asinner/)
 ## Introduction
 This is a basic rails app that demonstrates how to upload files using the [aws-sdk gem](https://github.com/aws/aws-sdk-ruby). This app utilizes [Amazon's Simple Storage Service (S3)](http://aws.amazon.com/s3/). Amazon S3 is an excellent service for storing uploads.
 
